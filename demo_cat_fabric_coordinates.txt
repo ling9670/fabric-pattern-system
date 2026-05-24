@@ -1,0 +1,110 @@
+FABRIC PATTERN — COORDINATE REFERENCE
+============================================================
+Format:  COL-ROW  (e.g. A01 = column A, row 1)
+Each coordinate = one cross-stitch (X) in that thread color.
+============================================================
+
+COLOR 1  ■
+  DMC #841  —  Lt Beige Brown
+  RGB: (185, 145, 94)
+  Stitches: 182
+  Coordinates:
+    H03  H04  S06  L07  X07  L08  K10  L10  M10  S10
+    T10  J11  K11  M11  R11  U11  J12  K12  M12  R12
+    T12  U12  K13  L13  S13  T13  O16  O17  H20  I20
+    J20  K20  L20  M20  N20  O20  P20  Q20  R20  S20
+    T20  U20  V20  W20  H21  I21  J21  K21  L21  M21
+    N21  O21  P21  Q21  R21  S21  T21  U21  V21  W21
+    H22  I22  J22  K22  L22  M22  N22  O22  P22  Q22
+    R22  S22  T22  U22  V22  W22  H23  I23  J23  K23
+    L23  M23  N23  O23  P23  Q23  R23  S23  T23  U23
+    V23  W23  H24  I24  J24  K24  L24  M24  N24  O24
+    P24  Q24  R24  S24  T24  U24  V24  W24  H25  I25
+    J25  K25  L25  M25  N25  O25  P25  Q25  R25  S25
+    T25  U25  V25  W25  H26  I26  J26  K26  L26  M26
+    N26  O26  P26  Q26  R26  S26  T26  U26  V26  W26
+    H27  I27  J27  K27  L27  M27  N27  O27  P27  Q27
+    R27  S27  T27  U27  V27  W27  M28  N28  O28  P28
+    Q28  R28  M29  N29  O29  P29  Q29  R29  M30  N30
+    O30  P30  Q30  R30  M31  N31  O31  P31  Q31  R31
+    P32  V34
+
+COLOR 2  ●
+  DMC #434  —  Light Brown
+  RGB: (124, 82, 41)
+  Stitches: 149
+  Coordinates:
+    I02  T02  V02  T03  S07  G08  N08  O08  P08  Q08
+    I09  J09  K09  L09  M09  N09  O09  P09  Q09  R09
+    S09  T09  U09  V09  W09  H10  I10  J10  N10  O10
+    P10  Q10  R10  V10  W10  H11  I11  N11  O11  P11
+    Q11  S11  V11  W11  H12  I12  L12  N12  O12  P12
+    Q12  S12  V12  W12  H13  I13  J13  N13  O13  P13
+    Q13  R13  U13  V13  W13  H14  I14  J14  K14  L14
+    M14  N14  O14  P14  Q14  R14  S14  T14  U14  V14
+    W14  H15  I15  J15  K15  L15  M15  N15  O15  P15
+    Q15  R15  S15  T15  U15  V15  W15  H16  I16  J16
+    K16  L16  M16  N16  R16  S16  T16  U16  V16  W16
+    H17  I17  J17  K17  L17  M17  N17  R17  S17  T17
+    U17  V17  W17  I18  J18  K18  L18  M18  N18  O18
+    P18  Q18  R18  S18  T18  U18  V18  W18  I19  L28
+    L29  L30  L31  M32  N32  Q32  R32  S32  O33
+
+COLOR 3  ▲
+  DMC #838  —  Very Dk Beige Brown
+  RGB: (79, 45, 16)
+  Stitches: 86
+  Coordinates:
+    K02  M08  R08  H09  L11  H18  J19  K19  L19  M19
+    N19  O19  P19  Q19  R19  S19  T19  U19  V19  H28
+    I28  J28  K28  T28  U28  V28  W28  H29  I29  J29
+    K29  T29  U29  V29  W29  H30  I30  J30  K30  T30
+    U30  V30  W30  H31  I31  J31  K31  T31  U31  V31
+    W31  H32  I32  J32  K32  L32  T32  U32  V32  W32
+    I33  J33  K33  L33  M33  N33  Q33  R33  S33  T33
+    U33  V33  J34  K34  L34  M34  N34  Q34  R34  S34
+    T34  U34  J35  M35  R35  T35
+
+COLOR 4  ◆
+  DMC #353  —  Peach
+  RGB: (234, 198, 181)
+  Stitches: 60
+  Coordinates:
+    I01  J01  K01  U01  V01  L02  J03  S03  U03  X03
+    J04  S04  U04  X04  H05  I05  J05  K05  L05  T05
+    U05  V05  W05  X05  G06  H06  I06  J06  K06  T06
+    U06  V06  W06  X06  H07  I07  J07  K07  T07  U07
+    V07  W07  Y19  G20  X20  G21  X21  G22  X22  G23
+    X23  G24  X24  G25  X25  G26  X26  G27  X27  V35
+
+COLOR 5  ★
+  DMC #318  —  Light Steel Gray
+  RGB: (192, 173, 162)
+  Stitches: 45
+  Coordinates:
+    H02  L03  V03  L04  V04  L06  Y07  H08  I08  J08
+    K08  T08  U08  V08  W08  Y08  Y09  Y10  Y11  Y12
+    Y13  Y14  Y15  Y16  Y17  Y18  G28  X28  G29  X29
+    G30  X30  G31  X31  G32  X32  G33  X33  H34  I34
+    P34  W34  P35  P36  V36
+
+COLOR 6  ▼
+  DMC #310  —  Black
+  RGB: (27, 22, 18)
+  Stitches: 44
+  Coordinates:
+    M07  N07  O07  P07  Q07  R07  G09  X09  G10  X10
+    G11  X11  G12  X12  G13  X13  G14  X14  G15  X15
+    G16  X16  G17  X17  G18  X18  H33  W33  K35  L35
+    N35  Q35  S35  U35  J36  K36  L36  M36  N36  Q36
+    R36  S36  T36  U36
+
+COLOR 7  ◉
+  DMC #3863  —  Med Mocha Beige
+  RGB: (141, 111, 90)
+  Stitches: 39
+  Coordinates:
+    J02  U02  W02  I03  K03  W03  I04  K04  T04  W04
+    M06  N06  O06  P06  Q06  R06  G07  S08  X08  U10
+    T11  M13  P16  Q16  P17  Q17  G19  H19  W19  X19
+    S28  S29  S30  S31  O32  P33  O34  O35  O36

@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+__pycache__/
+*.pyc
+
+# large pattern boards (session outputs, not part of the system)
+cymatic_*.png
+fabric_luxury_board.png
+fabric_pattern_verified.png
+fabric_tutorial_board.png
+pattern_recommendations.png
+ranking_data.png
+turing_pattern_board.png
+cute_patterns_board.png
+ghibli_clock_tower_pattern.png
