@@ -1,5 +1,7 @@
 # Fabric Pattern System
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=ling9670/fabric-pattern-system&branch=main&mainModule=app.py)
+
 **Image → Cross-Stitch Fabric Pattern Generator**
 
 Upload any image (photo, drawing, pixel art) and get a print-ready cross-stitch chart with thread coordinates, DMC color mapping, and a tiled fabric preview.
