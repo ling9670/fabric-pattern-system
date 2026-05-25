@@ -48,10 +48,12 @@ if uploaded:
 
     if st.button("Generate Fabric Pattern", type="primary", use_container_width=True):
         with st.spinner("Processing image..."):
-            # Save upload to temp file
+            # Save upload to temp file (seek back — Image.open() moved the buffer position)
             suffix = os.path.splitext(uploaded.name)[-1] or ".png"
+            uploaded.seek(0)
             with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
                 tmp.write(uploaded.read())
+                tmp.flush()
                 tmp_path = tmp.name
 
             prefix = os.path.join(tempfile.gettempdir(),
