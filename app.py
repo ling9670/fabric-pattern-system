@@ -4,13 +4,13 @@ from PIL import Image
 from fabric_system import generate
 
 st.set_page_config(
-    page_title="Fabric Pattern System",
-    page_icon="🧵",
+    page_title="Fabric Weaving System",
+    page_icon="🪡",
     layout="wide"
 )
 
-st.title("🧵 Fabric Pattern System")
-st.caption("Upload any image → get a cross-stitch chart, thread coordinates, and tiled fabric preview")
+st.title("🪡 Fabric Weaving System")
+st.caption("Upload any image → cross-stitch chart or weaving draft (rigid heddle + Jacquard)")
 
 # ── Sidebar controls ──────────────────────────────────────────────────────────
 with st.sidebar:
